@@ -10,4 +10,4 @@ Test Steps:
 5. Verify we are on the contact page asserting the text: "Get in Toouch".
 6. Fill in all the field details
 7. Click on Contact Us button to submit (This line is currently commented out in the code).
-8. Close firefox.
+8. Close Chrome brower.
