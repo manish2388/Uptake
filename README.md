@@ -7,7 +7,7 @@ Test Steps:
 2. Go to the url "https://uptake.com/"
 3. verify the homepage text by asserting: "Let's put your data to work".
 4. Click on the Contact button 
-5. Verify we are on the contact page asserting the text: "Get in Toouch".
+5. Verify we are on the contact page asserting the text: "Get in Touch".
 6. Fill in all the field details
 7. Click on Contact Us button to submit (This line is currently commented out in the code).
 8. Close Chrome brower.
